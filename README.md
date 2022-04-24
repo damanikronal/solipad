@@ -1,8 +1,9 @@
  #Nama Plugin : Solipad Crypt Versi 1.0
  
- Deskripsi   : Plugin Notepad++ untuk Enkripsi-Dekripsi Teks(Huruf alpabhet<a..z>)
-              Dengan Algoritma Solitaire
+ Deskripsi   : Plugin Notepad++ untuk Enkripsi-Dekripsi Teks(Huruf alpabhet<a..z>) Dengan Algoritma Solitaire
+ 
  Developer : Ronal Damanik (Ilmu Komputer Universitas Lampung)
+ 
  Bahasa Pemrograman : Delphi
 
  Fitur:
