@@ -3,8 +3,6 @@
  Deskripsi   : Plugin Notepad++ untuk Enkripsi-Dekripsi Teks(Huruf alpabhet<a..z>) Dengan Algoritma Solitaire
  
  Developer : Ronal Damanik (Ilmu Komputer Universitas Lampung)
- 
- Bahasa Pemrograman : Delphi/Pascal
 
  Fitur:
  - Enkripsi-Dekripsi Teks (Huruf Alfabet a-z) secara keseluruhan maupun khusus 
