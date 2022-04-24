@@ -8,7 +8,7 @@
  Fitur:
  - Enkripsi-Dekripsi Teks (Huruf Alfabet a-z) secara keseluruhan maupun khusus 
    sebagian teks
- - Telah diuji pada Notepad++ 5.6.8.0 (masih komaptible untuk versi diatasnya)
+ - Telah diuji pada Notepad++ 5.6.8.0 (masih kompatible untuk versi diatasnya)
 
  Dibuat sebagai program penunjang Tugas Akhir Mata Kuliah Kriptografi
  Ilmu Komputer Universitas Lampung
