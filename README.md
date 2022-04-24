@@ -1,6 +1,5 @@
-####################################################################################
+ #Nama Plugin : Solipad Crypt Versi 1.0
  
- Nama Plugin : Solipad Crypt Versi 1.0
  Deskripsi   : Plugin Notepad++ untuk Enkripsi-Dekripsi Teks(Huruf alpabhet<a..z>)
               Dengan Algoritma Solitaire
  Developer : Ronal Damanik (Ilmu Komputer Universitas Lampung)
@@ -16,9 +15,7 @@
  
  "Implementasi Solitaire Cipher Sebagai Plugin Enkripsi Pada Aplikasi Notepad++"
 
-####################################################################################
-
-Cara Instalasi:
+#Cara Instalasi:
 
 1. Copy file solipad.dll ke folder plugins di folder instalasi Notepad++
    ../Notepad++/plugins/
